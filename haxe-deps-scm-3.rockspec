@@ -2,11 +2,11 @@ package = "haxe-deps"
 version = "scm-3"
 
 source = {
-   url = "https://github.com/jdonaldson/haxe-deps.git"
+   url = "https://github.com/inklit/haxe-deps.git"
 }
 
 description = {
-   homepage = "https://github.com/jdonaldson/haxe-deps",
+   homepage = "https://github.com/inklit/haxe-deps",
    license  = "MIT"
 }
 
